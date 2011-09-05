@@ -1,0 +1,18 @@
+#Fri Aug 12 15:27:40 GMT+05:30 2011
+eclipse.preferences.version=1
+provisioning_profiles/development/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/appid=com.bhejde
+provisioning_profiles/development/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/filepath=/Users/bhuvankhanna/Library/MobileDevice/Provisioning Profiles/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA.mobileprovision
+provisioning_profiles/development/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/name=bhejde provisioning profile
+provisioning_profiles/development/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/uuid=B432C9B7-F750-4E3B-BD8B-D733C05EDAEA
+provisioning_profiles/development/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/appid=com.bhejde
+provisioning_profiles/development/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/filepath=/Users/bhuvankhanna/Library/MobileDevice/Provisioning Profiles/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13.mobileprovision
+provisioning_profiles/development/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/name=bhejde provisioning profile
+provisioning_profiles/development/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/uuid=E7ACF8BB-ECE3-4247-A277-12E40B2B5B13
+provisioning_profiles/distribution/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/appid=com.bhejde
+provisioning_profiles/distribution/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/filepath=/Users/bhuvankhanna/Library/MobileDevice/Provisioning Profiles/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA.mobileprovision
+provisioning_profiles/distribution/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/name=bhejde provisioning profile
+provisioning_profiles/distribution/B432C9B7-F750-4E3B-BD8B-D733C05EDAEA/uuid=B432C9B7-F750-4E3B-BD8B-D733C05EDAEA
+provisioning_profiles/distribution/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/appid=com.bhejde
+provisioning_profiles/distribution/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/filepath=/Users/bhuvankhanna/Library/MobileDevice/Provisioning Profiles/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13.mobileprovision
+provisioning_profiles/distribution/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/name=bhejde provisioning profile
+provisioning_profiles/distribution/E7ACF8BB-ECE3-4247-A277-12E40B2B5B13/uuid=E7ACF8BB-ECE3-4247-A277-12E40B2B5B13
